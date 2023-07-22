@@ -1,0 +1,6 @@
+/home/wm/code/puretest/cmaketest/CMakeFiles/rebuild_cache.dir
+/home/wm/code/puretest/cmaketest/CMakeFiles/edit_cache.dir
+/home/wm/code/puretest/cmaketest/CMakeFiles/demo.dir
+/home/wm/code/puretest/cmaketest/math/CMakeFiles/rebuild_cache.dir
+/home/wm/code/puretest/cmaketest/math/CMakeFiles/edit_cache.dir
+/home/wm/code/puretest/cmaketest/math/CMakeFiles/MathFunctions.dir

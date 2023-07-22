@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wm/code/puretest/cmaketest/main.cc
+iostream
+-
+math/add.h
+/home/wm/code/puretest/cmaketest/math/add.h
+
+/home/wm/code/puretest/cmaketest/math/add.h
+
